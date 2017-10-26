@@ -7,6 +7,7 @@ namespace SampleConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Change made from Windows.");
         }
     }
 }
