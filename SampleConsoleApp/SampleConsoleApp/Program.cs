@@ -8,6 +8,7 @@ namespace SampleConsoleApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Change made from Windows.");
+            Console.WriteLine("Change made from Mac.");
         }
     }
 }
